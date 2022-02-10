@@ -1,0 +1,23 @@
+:root{
+    font-family: fantasy, sans-serif;
+    font-size: 1.5rem;
+    background-color: slateblue;
+    color: #FFFFFF;
+}
+#container{
+    margin: auto;
+    height: 100vh;
+}
+header{
+    text-align: center;
+}
+#main-content{
+    text-align: center;
+}
+img {
+    height: auto;
+    max-width: 540px;
+}
+img{
+    max-width: auto;
+}
